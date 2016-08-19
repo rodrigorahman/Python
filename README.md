@@ -107,3 +107,20 @@ Gerenciado de dependencias Python
 Quando der problema de instalação devido a uma versao pré instalada basta adicionar o parametro
 
 ***--ignore-installed***
+
+
+## Virtual Env ##
+
+Criando ambiente virtual para trabalhar com Python
+
+```
+virtualenv NomeDoAmbienteVirtual
+```
+
+## Workon ##
+
+Para entrar em um ambiente basta rodar
+
+```
+workon NomeDoAmbienteVirtual
+```
